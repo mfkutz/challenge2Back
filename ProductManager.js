@@ -79,7 +79,7 @@ class ProductManager {
 
 const productManager = new ProductManager('./products.json')
 
-/* productManager.addProduct({ title: 'Product1', description: 'description1', price: 34, thumbnail: 'thumbnail1.jpg', code: 'P001', stock: 23 }) */
+// productManager.addProduct({ title: 'Product1', description: 'description1', price: 34, thumbnail: 'thumbnail1.jpg', code: 'P001', stock: 23 })
 // productManager.addProduct({ title: 'Product2', description: 'description2', price: 45, thumbnail: 'thumbnail2.jpg', code: 'P002', stock: 34 })
 // productManager.addProduct({ title: 'Product3', description: 'description3', price: 45, thumbnail: 'thumbnail3.jpg', code: 'P003', stock: 55 })
 // productManager.addProduct({ title: 'Product3', description: 'description3', price: 45, thumbnail: 'thumbnail3.jpg', code: 'P003', stock: 55 })
